@@ -1,0 +1,4 @@
+1adef6ed6d964d1c86b02341ce95ff4ddb2287334fb22b0e11b5b276e1471612  go-prompt-git_0.1.1_Linux_x86_64.tar.gz
+92c766f7cd52823920a6cacdf5c5999248a8f69ec735980b4fe82cd0d3b2885a  go-prompt-git_0.1.1_Linux_i386.tar.gz
+1ece7b589b3b115498ebe7bea6611a5c5c870f8c5396d6acfbcd4d43c9b05848  go-prompt-git_0.1.1_Darwin_x86_64.tar.gz
+dc047eb449df1d93627afba248c024cbcb6ac36626ea290768a0bd369877bcf7  go-prompt-git_0.1.1_Darwin_i386.tar.gz
